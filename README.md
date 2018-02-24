@@ -1,4 +1,6 @@
 # NeteaseMCCrack
+Sorry for Chinese simplified :p
+
 网易添加模组破解 By:lyc8503
 具体使用方法见软件内说明
 
